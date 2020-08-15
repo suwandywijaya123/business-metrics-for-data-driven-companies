@@ -115,7 +115,7 @@ Risk metric are related to risk managers and creditors such as track and mitigat
 
 -Risk metric are indirectly affecting the sales revenue as it potential losing its competitive advantages and subsequently losing its customer.
 
-Testing the process improvement from competitors (operating at 24 hours) and analyze its benefit in comparison with current process. Subsequently, setting a goal (expected benefit in comparison to current process) from this improvement process that is specific and measurable within certain specific time-bound. 
+Testing the process improvement from competitors (operating at 24 hours) and analyze its benefit in comparison with current process. Subsequently, setting a goal (expected benefit in comparison to current process) from this improvement process that is specific and measurable within certain specific time-bound. Analyze and conduct comparison study between current process and improvement process in which the effects using revenue metrics (dependent variable).
 
 Example: In 3 months, analyze the improvement process has resulted in increase of 5% revenue in comparison to current process on month-by-month basis compared to the same month last year.
 
