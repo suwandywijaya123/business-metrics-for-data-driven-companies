@@ -65,11 +65,11 @@ Example: In 3 months, analyze additional number of sales peoples (example of pro
 
 -Process changes for consideration such as:
 
-  o	Expanding marketing endeavours.
+  1)	Expanding marketing endeavours.
   
-  o	Hiring more sales peoples.
+  2)	Hiring more sales peoples.
   
-  o	Offering more discounts to attract new customers.
+  3)	Offering more discounts to attract new customers.
 
 ### Measurement/analysis for process change:
 
@@ -93,7 +93,7 @@ Example: In 3 months, analyze the inventory level (example of process changes) t
 
 -Process changes consideration such as:
 
-  o	Improve its inventory management such as not over-delivering the items as it will increase chances of wastage due to its short lifetime of the goods, and not under-  delivering the items as it will potentially reduce customer satisfaction. 
+1)Improve its inventory management such as not over-delivering the items as it will increase chances of wastage due to its short lifetime of the goods, and not under-  delivering the items as it will potentially reduce customer satisfaction. 
 
 Reduce its overall inventory quantities delivered when wastage quantities of each item are considerably high. And at the same times, ensuring total inventory quantities do not reach 0. Inventory level are recommended to be continuously monitored weekly. 
 
