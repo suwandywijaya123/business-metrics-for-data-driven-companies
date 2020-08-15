@@ -17,7 +17,7 @@ There are few steps to improve its revenue growth and profitability such as:
 
 ### b) Dataframes for analysis. 
 
-Cash register data for every store:
+### Cash register data for every store:
 
 -Store details.
 
@@ -29,7 +29,7 @@ Cash register data for every store:
 
 -Sales price (each times purchased).
 
-Delivery data:
+### Delivery data:
 
 -Store details.
 
@@ -37,7 +37,7 @@ Delivery data:
 
 -Date and time of delivery.
 
-Accounting data:
+### Accounting data:
 
 -Annual revenue.
 
