@@ -93,9 +93,9 @@ Example: In 3 months, analyze the inventory level (example of process changes) t
 
 -Process changes consideration such as:
 
-1)Improve its inventory management such as not over-delivering the items as it will increase chances of wastage due to its short lifetime of the goods, and not under-  delivering the items as it will potentially reduce customer satisfaction. 
+	1) Improve its inventory management such as not over-delivering the items as it will increase chances of wastage due to its short lifetime of the goods, and not under-  	delivering the items as it will potentially reduce customer satisfaction. 
 
-Reduce its overall inventory quantities delivered when wastage quantities of each item are considerably high. And at the same times, ensuring total inventory quantities do not reach 0. Inventory level are recommended to be continuously monitored weekly. 
+	Reduce its overall inventory quantities delivered when wastage quantities of each item are considerably high. And at the same times, ensuring total inventory quantities 	do not reach 0. Inventory level are recommended to be continuously monitored weekly. 
 
 ### Measurement/analysis for process change:
 -Thus, analyze the inventory level and compare the effect on total monthly profit/gross margin (gross margin=  ((total revenue-total cost of item sold))/(total revenue)) and compared to the same month last year for specific time-bound. Subsequently, determine on whether it meets the goals that is set by management
