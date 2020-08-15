@@ -6,9 +6,13 @@ There are few steps to improve its revenue growth and profitability such as:
 
 ### a) Identify problems.
 -There is no growth in number of visitors across several years.
+
 -The revenue decreased by average of 10%.
+
 -Many stores are no longer profitable 
+
 -Inventories mismanagement (wastage and insufficient quantities for some of items)
+
 -Increase in competition from frozen yogurt sold in 24-hour grocery stores
 
 ### b) Dataframes for analysis. 
