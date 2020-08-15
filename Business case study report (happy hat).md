@@ -18,20 +18,31 @@ There are few steps to improve its revenue growth and profitability such as:
 ### b) Dataframes for analysis. 
 
 Cash register data for every store:
+
 -Store details.
+
 -transactions ID.
+
 -Items purchased.
+
 -Date and time of purchases.
+
 -Sales price (each times purchased).
 
 Delivery data:
+
 -Store details.
+
 -Items delivered.
+
 -Date and time of delivery.
 
 Accounting data:
+
 -Annual revenue.
+
 -Annual cost of goods sold.
+
 -Inventory on hand at the end of the year.
 
 ## 2) Correctly classified its business metrics and recommend process change for improvement.
@@ -39,9 +50,12 @@ Accounting data:
 ### a) Revenue metrics.
 
 Revenue metrics are related to sales and marketing. In revenue metrics, it analyses on how well the company is marketing or selling its products.
-	For cases of happy hat, problem related to revenue metrics such as:
-	Growth in number of visitors potentially due to its marketing strategy.
-	Decrease of revenue due to its sales decreased.
+
+### For cases of happy hat, problem related to revenue metrics such as:
+
+-Growth in number of visitors potentially due to its marketing strategy.
+
+-Decrease of revenue due to its sales decreased.
 
 
 
