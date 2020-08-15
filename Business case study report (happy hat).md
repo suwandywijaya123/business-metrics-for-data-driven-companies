@@ -2,7 +2,7 @@
 
 There are few steps to improve its revenue growth and profitability such as: 
 
-# 1) Identify its problems and analyze the given of data for analysis purposes.
+## 1) Identify its problems and analyze the given of data for analysis purposes.
 
 	Identify problems.
 	There is no growth in number of visitors across several years.
