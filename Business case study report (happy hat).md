@@ -1,4 +1,4 @@
-# Final project report (Articulating business metrics of case study and recommend process changes)
+## Final project report (Articulating business metrics of case study and recommend process changes)
 
 There are few steps to improve its revenue growth and profitability such as: 
 
