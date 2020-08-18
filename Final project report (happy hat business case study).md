@@ -134,6 +134,6 @@ In this happy hat financial statement are reported annually, they are adopting t
 
 ### Recommendation on business process change:
 
--Adopting dynamic metrics for financial reporting systems. This enable happy hats to make a fast inform decisions. 
-
+-Adopting dynamic metrics for financial reporting systems. This enable happy hats to make a fast inform decisions. The dynamic metrics such as:
+ 1.	Revenue, cost of goods sold, and inventory on hand to be report monthly instead of annually.
 
